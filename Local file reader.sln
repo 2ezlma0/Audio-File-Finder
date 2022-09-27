@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Local file reader", "Local file reader\Local file reader.csproj", "{90D547CA-4433-4007-A1B9-4E3AA64BD3ED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{90D547CA-4433-4007-A1B9-4E3AA64BD3ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90D547CA-4433-4007-A1B9-4E3AA64BD3ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90D547CA-4433-4007-A1B9-4E3AA64BD3ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90D547CA-4433-4007-A1B9-4E3AA64BD3ED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {532ED93F-CECD-49AD-A3CB-7F9AFE4970B7}
+	EndGlobalSection
+EndGlobal
